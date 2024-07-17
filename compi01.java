@@ -1,4 +1,3 @@
-package compilador01_08;
 
 public class compi01 {
 
